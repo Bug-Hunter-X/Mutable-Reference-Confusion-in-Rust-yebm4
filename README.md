@@ -1,0 +1,1 @@
+This repository contains a simple Rust program that demonstrates a potential pitfall related to mutable references. The `bug.rs` file shows code that might appear correct at first glance, but can lead to errors if extended. The `bugSolution.rs` file provides a safer approach for handling mutable references.
